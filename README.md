@@ -13,4 +13,4 @@ Gate Settings:
 - UPPER_BOUND - Max height for free space
 - LOWER_BOUND - Min height for free space
 
-![Bird](https://github.com/SlawekSt/FlappyBirdAI/blob/main/Bird.PNG)
+![Bird](https://github.com/SlawoStr/FlappyBirdAi/blob/master/Bird.PNG)
